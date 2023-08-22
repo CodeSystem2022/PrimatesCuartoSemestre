@@ -21,7 +21,7 @@
   </tr>
   <tr>
     <th>III</th>
-    <th>Pending...</th>
+    <th>Herrera, Osman</th>
     <th>  </th>
   </tr>
   <tr>
