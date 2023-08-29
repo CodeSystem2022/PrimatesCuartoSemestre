@@ -31,7 +31,7 @@
   </tr>
   <tr>
     <th>V</th>
-    <th>Agustin Reinoso</th>
+    <th>Reinoso, Agustin</th>
     <th>  </th>
   </tr>
   <tr>
