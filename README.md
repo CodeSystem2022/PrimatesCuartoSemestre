@@ -31,7 +31,7 @@
   </tr>
   <tr>
     <th>V</th>
-    <th>Pending...</th>
+    <th>Agustin Reinoso</th>
     <th>  </th>
   </tr>
   <tr>
