@@ -16,12 +16,12 @@
   </tr>
   <tr>
     <th>II</th>
-    <th>Pending...</th>
+    <th>Herrea, Osman</th>
     <th>  </th>
   </tr>
   <tr>
     <th>III</th>
-    <th>Herrera, Osman</th>
+    <th>Pending...</th>
     <th>  </th>
   </tr>
   <tr>
