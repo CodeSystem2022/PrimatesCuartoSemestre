@@ -26,7 +26,7 @@
   </tr>
   <tr>
     <th>IV</th>
-    <th>Pending...</th>
+    <th>Valentino Patané</th>
     <th>  </th>
   </tr>
   <tr>
