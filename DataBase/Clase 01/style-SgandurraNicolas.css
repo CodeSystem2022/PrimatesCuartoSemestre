@@ -1,0 +1,65 @@
+:root{
+  --colorTextos: #212121;
+}
+
+*,
+::before,
+::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: "Agency FB", serif;
+  background: #c480f1;
+  background: -webkit-linear-gradient(to right, #c480f1, #cf3dff);
+  background: linear-gradient(to right, #c480f1, #cf3dff);
+  height: 700px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1{
+  text-align: center;
+}
+
+form{
+  background: white;
+  padding: 40px 0;
+  box-shadow: 0 0 10px 0 white;
+  border-radius: 15px;
+}
+
+.form{
+  width: 100%;
+  margin: auto;
+}
+
+form .group{
+  position: relative;
+  margin: 50px;
+}
+
+input{
+  background: none;
+  color: lightgray;
+  padding: 10px 10px 10px 5px;
+  display: block;
+  width: 100%;
+  border: none;
+  border-bottom: 1px solid var(--colorTextos);
+}
+
+input:focus{
+  outline: none;
+  color: gray;
+}
+
+label{
+  color: var(--colorTextos);
+  position: absolute;
+  left: 10px;
+  top: 10px;
+}
