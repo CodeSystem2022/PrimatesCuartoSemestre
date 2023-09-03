@@ -16,22 +16,22 @@
   </tr>
   <tr>
     <th>II</th>
-    <th>Pending...</th>
-    <th>  </th>
-  </tr>
-  <tr>
-    <th>III</th>
     <th>Herrera, Osman</th>
     <th>  </th>
   </tr>
   <tr>
-    <th>IV</th>
+    <th>III</th>
     <th>Pending...</th>
     <th>  </th>
   </tr>
   <tr>
+    <th>IV</th>
+    <th>Valentino Patané</th>
+    <th>  </th>
+  </tr>
+  <tr>
     <th>V</th>
-    <th>Pending...</th>
+    <th>Reinoso, Agustin</th>
     <th>  </th>
   </tr>
   <tr>
