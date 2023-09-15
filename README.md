@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <th>VI</th>
-    <th>Pending...</th>
+    <th>Choquevillca, Tania</th>
     <th>  </th>
   </tr>
   <tr>
