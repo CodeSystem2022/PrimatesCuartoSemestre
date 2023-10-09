@@ -41,12 +41,12 @@
   </tr>
   <tr>
     <th>VII</th>
-    <th>Pending...</th>
+    <th>Lopez, Andrés</th>
     <th>  </th>
   </tr>
   <tr>
     <th>VIII</th>
-    <th>Lopez, Andrés</th>
+    <th>Pending...</th>
     <th>   </th>
   </tr>
   <tr>
