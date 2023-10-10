@@ -46,7 +46,7 @@
   </tr>
   <tr>
     <th>VIII</th>
-    <th>Pending...</th>
+    <th>Rinaldi, Lucas</th>
     <th>   </th>
   </tr>
   <tr>
