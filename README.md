@@ -31,12 +31,12 @@
   </tr>
   <tr>
     <th>V</th>
-    <th>Reinoso, Agustin</th>
+    <th>Choquevillca, Tania</th>
     <th>  </th>
   </tr>
   <tr>
     <th>VI</th>
-    <th>Choquevillca, Tania</th>
+    <th>Barra, Mauricio</th>
     <th>  </th>
   </tr>
   <tr>
