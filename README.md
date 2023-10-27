@@ -51,7 +51,7 @@
   </tr>
   <tr>
     <th>IX</th>
-    <th>Andrés Lopez</th>
+    <th>Lopez, Andrés</th>
     <th>    </th>
   </tr>
   <tr>
