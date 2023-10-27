@@ -51,7 +51,7 @@
   </tr>
   <tr>
     <th>IX</th>
-    <th>Pending...</th>
+    <th>Andrés Lopez</th>
     <th>    </th>
   </tr>
   <tr>
