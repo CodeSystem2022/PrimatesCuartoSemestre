@@ -108,6 +108,10 @@
       <th>HTML</th>
       <th> <img src="https://github.com/CodeSystem2022/PrimatesCuartoSemestre/assets/111594677/91f23856-6e06-4fb2-bc07-2e2ac0c73aff" alt="imagen" width="25"> </th>
     </tr>
+    <tr>
+      <th>NodeJS</th>
+      <th> <img src="https://github.com/CodeSystem2022/PrimatesCuartoSemestre/assets/111933179/e99fa3a8-90f5-4003-abc9-cf0bd09ee86c" alt="imagen" width="25"> </th>
+    </tr>
   </table>
 </div>
 
