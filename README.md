@@ -12,7 +12,7 @@
   <tr>
     <th>I</th>
     <th>Sgandurra, Nicolas</th>
-    <th>  </th>
+    <th> 🟢 </th>
   </tr>
   <tr>
     <th>II</th>
