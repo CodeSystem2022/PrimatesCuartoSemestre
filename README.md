@@ -42,7 +42,7 @@
   <tr>
     <th>VII</th>
     <th>Lopez, Andrés</th>
-    <th>  </th>
+    <th>🟢</th>
   </tr>
   <tr>
     <th>VIII</th>
@@ -52,7 +52,7 @@
   <tr>
     <th>IX</th>
     <th>Lopez, Andrés</th>
-    <th>    </th>
+    <th>🟢</th>
   </tr>
   <tr>
     <th>X</th>
