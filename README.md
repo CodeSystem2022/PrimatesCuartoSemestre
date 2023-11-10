@@ -56,8 +56,8 @@
   </tr>
   <tr>
     <th>X</th>
-    <th>Pending...</th>
-    <th>  </th>
+    <th>Rinaldi, Lucas</th>
+    <th>🟢</th>
   </tr>
   <tr>
     <th>XI</th>
